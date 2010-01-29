@@ -33,8 +33,7 @@ production:
   adapter: mysql
   database: mephisto_production
   username: root
-  password: 
-  host: localhost
+  password: root
   encoding: utf8
 
 
