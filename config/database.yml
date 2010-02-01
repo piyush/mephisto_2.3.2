@@ -12,7 +12,7 @@
 ##   http://dev.mysql.com/doc/refman/5.0/en/old-client.html
 development:
   adapter: mysql
-  database: mephisto_development
+  database: mephisto_production
   username: root
   password: root
   encoding: utf8
